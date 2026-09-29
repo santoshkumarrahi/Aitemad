@@ -1,0 +1,8 @@
+{
+  "name": "Aitemad Diagnostic Center & Clinical Lab",
+  "description": "Comprehensive healthcare platform and clinical laboratory management for Aitemad Diagnostic Center & Clinical Lab in Rawalpindi, Pakistan. OPD, Clinical Lab, Pharmacy, Medical Specialists, Gynecologist, 24/7 Emergency & Diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
